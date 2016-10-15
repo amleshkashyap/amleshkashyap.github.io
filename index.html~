@@ -11,7 +11,7 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 #outside_container {
-    background:url(images/background_slice.jpg) repeat-x #000000;
+    background:url(slide-01.jpg) repeat-x #000000;
 }
 #container {
     background:url(images/background_main.jpg) no-repeat;
