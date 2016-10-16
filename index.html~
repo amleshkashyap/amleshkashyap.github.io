@@ -18,15 +18,15 @@ body {
 	width: 960px; margin: 0 auto;
 }
 
-#logo {
+/* #logo {
 	margin: 10px auto 0 auto; position: relative; width: 183px;
-}
+} */
 
 ul#nav {
 	width: 940px; list-style: none; overflow: hidden; margin: -134px auto 25px auto;
 }
 	ul#nav li {
-		width: 175px; height: 33px; float: left; padding: 13px 0 0 0;
+		width: 126px; height: 33px; float: left; padding: 13px 0 0 0;
 		background: url(images/nav-bg.jpg);
 		font-weight: bold; text-align: center; text-transform: uppercase;
 	}
@@ -56,11 +56,11 @@ ul#nav {
 
 	#header h1 {
 		font: 38px Georgia, Serif;  letter-spacing: 2px; margin: 0 0 20px 0; /* color: #f2f0eb; white */
-		text-shadow: 0px 3px 3px #494949;
+		/* text-shadow: 0px 3px 3px #494949;*/
 	}
 	#header h2 {
-		width: 900px; font: 25px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0; /* color: #f2f0eb; white */
-		text-shadow: 0px 3px 3px #494949;
+		width: 900px; font: 20px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0; /* color: #f2f0eb; white */
+		/* text-shadow: 0px 3px 3px #494949; */
 	}
 	#header p.btn a {
 		display: block; width: 150px; height: 50px; /* overflow: hidden; */
@@ -126,7 +126,7 @@ ul#nav {
 
 <body>
 	<div id="container">
-		<p id="logo"><a href="#"><img src="images/human.png" alt="Amlesh Kashyap logo" /></a></p>
+<!--		<p id="logo"><a href="#"><img src="images/human.png" alt="Amlesh Kashyap logo" /></a></p> -->
 
 		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
@@ -136,7 +136,7 @@ ul#nav {
 		</ul>
 
 		<div id="header">
-			<h1>Amlesh Kashyap.</h1>
+			<h1>Amlesh Kashyap</h1>
 			<h2>Broadly, I have experience in Parallel Computation. Science has been supported significantly by this so called "third pillar" of science. I am also interested in theoretical 
 			aspects of Computer Science.</h2>
 		
