@@ -22,14 +22,15 @@ body {
 	margin: 10px auto 0 auto; position: relative; width: 183px;
 } */
 
-/*ul#nav {
-	width: 940px; list-style: none;  margin: -134px auto 25px auto; /* overflow: hidden; 
+ul#nav {
+	width: 940px; list-style: none;  margin: -134px auto 25px auto; /* overflow: hidden; */
 }
 	ul#nav li {
 		width: 126px; height: 33px; float: left; padding: 13px 0 0 0;
 		background: url(images/nav-bg.jpg);
-		font-weight: bold; text-align: center; text-transform: uppercase;
+		font-weight: bold; text-align: center; /* text-transform: uppercase; */
 	}
+/*
 		ul#nav li:nth-child(1) {
 			margin: 0 60px 0 0;
 		}
@@ -48,7 +49,7 @@ body {
 		}
 			ul#nav li a:hover {
 				color: #a12121;
-			}*/
+			} */
 #header {
 	height: 244px; padding: 52px 0 0 57px;
 	background: url(images/content-bg.jpg);
