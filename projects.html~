@@ -102,9 +102,9 @@ p.big {
 		margin: 0;
 	}
 	#content .portfolio-item p.btn a {
-		display: block; width: 125px; height: 29px; padding: 7px 0 0 0;
+		display: block; width: 125px; height: 29px; padding: 7px 0 0 0; font-size: 12px;
 /*		background: url(images/checkit.jpg); */
-		font-weight: bold; text-align: center; text-transform: uppercase;
+		font-weight: bold; text-align: center; /* text-transform: uppercase; */
 		text-decoration: none;
 	}
 
@@ -142,7 +142,7 @@ p.big {
 			<h3>Research Projects</h3>
 			</p>
 
-			<p>
+	
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">Asynchronous and Synchronous Models of Execution of Longwaves</a></p>
@@ -157,33 +157,13 @@ p.big {
 				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
 			</div>
-			</p>
 
-			<p class="big">
-			<h3>Course Projects</h3>
-			</p>
 
-			<p class="big">
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-			</p>
 
-			<p class="big">
+			<p id="big">
 			<h3>Independent Projects</h3>
 			</p>
-			<p class="big">
+
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
@@ -213,7 +193,6 @@ p.big {
 				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
 
-			</p>
 
 			<p class="big">
 			<h3>Lab Administration</h3>
