@@ -99,7 +99,7 @@ ul#nav {
 	}
 	#content .portfolio-item p.btn a {
 		display: block; width: 183px; height: 29px; padding: 7px 0 0 0;
-		background: url(images/checkit.jpg);
+/*		background: url(images/checkit.jpg); */
 		font-weight: bold; text-align: center; text-transform: uppercase;
 		text-decoration: none;
 	}
@@ -130,27 +130,68 @@ ul#nav {
 
 		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
-			<li><a href="about.html">About</a></li>
-			<li><a href="portfolio.html">Portfolio</a></li>
-			<li><a href="contact.html">Contact</a></li>
+			<li><a href="about.html">Education</a></li>
+			<li><a href="projects.html">Projects</a></li>
+			<li><a href="others.html">Other Interests</a></li>
 		</ul>
 
 		<div id="header">
-			<h1>Hello, I'm .</h1>
-			<h2>I .</h2>
+			<h1>Amlesh Kashyap.</h1>
+			<h2>Broadly, I have experience in Parallel Computation. Science has been supported significantly by this so called "third pillar" of science. I am also interested in theoretical 
+			aspects of Computer Science.</h2>
 		
-			<p class="btn"><a href="portfolio.html">View my portfolio</a></p>
+			<p class="btn"><a href="resume.pdf">Resume</a></p>
 		</div>
 
 		<div id="content">
-			<h3>About Amlesh Kashyap</h3>
+			<h3>About</h3>
 	
-			<p>I earn a living by </p>
+			<p>Currently I am working as a Research/Project Assitant at Middleware and Runtime Systems (<a href="http://mars.serc.iisc.ernet.in/">MARS</a>) Laboratory. This lab is a part of the 				newly created Department of Computational and Data Sciences (<a href="http://cds.iisc.ac.in/">CDS</a>), at Indian Institute of Science (<a href="http://www.iisc.ac.in/">IISc</a>), 				Bangalore. </p>
 	
-			<h3>My latest work</h3>
+			<h3>Research Projects</h3>
 	
-			<p>I’m forever creating</p>
+			<p>Have a look at the projects which aimed novelty.</p>
 	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_music_theory.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+
+			<h3>Other Projects</h3>
+	
+			<p>These projects were done as part of coursework, or independently.</p>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_music_theory.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
@@ -174,7 +215,7 @@ ul#nav {
 		</div>
 
 		<div id="footer">
-			<p id="copyright">&copy; Amlesh Kashyap </p>
+			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
 			<p id="back-top"><a href="#">Going up?</a></p>
 		</div>
 	
