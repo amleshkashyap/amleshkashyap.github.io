@@ -10,7 +10,7 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
 }
 
 body {
-	background: #f2f0eb url(images/background.jpg);
+	background: #f2f0eb url(images/content-bg.jpg);
 	font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
 }
 
@@ -51,7 +51,7 @@ body {
 			}*/
 #header {
 	height: 244px; padding: 52px 0 0 57px;
-	background: url(images/header.jpg);
+	background: url(images/content-bg.jpg);
 }
 
 	#header h1 {
@@ -105,7 +105,7 @@ body {
 	}
 
 #footer {
-	background: url(images/footer.jpg) no-repeat; padding: 40px 0 0 0;
+	background: url(images/content-bg.jpg) no-repeat; padding: 40px 0 0 0;
 	overflow: hidden; margin: 0 0 30px 0;
 }
 	#footer p#copyright {
@@ -136,7 +136,7 @@ body {
 		<div id="content">
 			
 			<p>
-			I spend a significant amount of my free time in developing an intuitive understanding of different fields of study through light articles and introductory online courses. I consider it an important activity, which can help us in smoothly handling our life (a very limited set of situations which we can control).
+			I spend a significant amount of my free time in developing an intuitive understanding of different fields of study through light articles and introductory online courses. 
 			</p>
 
 <!--
