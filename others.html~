@@ -1,3 +1,170 @@
-This page is under preparation. Check after December 2016.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Education</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<style>
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
+	margin: 0; padding: 0; border: 0;
+}
 
-Contact Me at - kashyapamlesh@gmail.com
+body {
+	background: #f2f0eb url(images/background.jpg);
+	font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
+}
+
+#container {
+	width: 960px; margin: 0 auto;
+}
+
+/* #logo {
+	margin: 10px auto 0 auto; position: relative; width: 183px;
+} */
+
+/*ul#nav {
+	width: 940px; list-style: none;  margin: -134px auto 25px auto; /* overflow: hidden; 
+}
+	ul#nav li {
+		width: 126px; height: 33px; float: left; padding: 13px 0 0 0;
+		background: url(images/nav-bg.jpg);
+		font-weight: bold; text-align: center; text-transform: uppercase;
+	}
+		ul#nav li:nth-child(1) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(2) {
+			margin: 0 316px 0 0;
+		}
+		ul#nav li:nth-child(3) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(4) {
+			margin: 0;
+		}
+
+		ul#nav li a {
+			color: #616369; text-decoration: none;
+		}
+			ul#nav li a:hover {
+				color: #a12121;
+			}*/
+#header {
+	height: 244px; padding: 52px 0 0 57px;
+	background: url(images/header.jpg);
+}
+
+	#header h1 {
+		font: 38px Georgia, Serif;  letter-spacing: 2px; margin: 0 0 20px 0; /* color: #f2f0eb; white */
+		/* text-shadow: 0px 3px 3px #494949;*/
+	}
+	#header h2 {
+		width: 900px; font: 20px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0; /* color: #f2f0eb; white */
+		/* text-shadow: 0px 3px 3px #494949; */
+	}
+	#header p.btn a {
+		display: block; width: 150px; height: 50px; /* overflow: hidden; */
+		background: url(images/cv.jpg); text-indent: -9999px;
+	}
+
+#content {
+	background: url(images/content-bg.jpg) repeat-y;
+	padding: 57px 69px 50px 69px; overflow: hidden;
+}
+	#content h2 {
+		font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+	}
+
+	#content h3 {
+		font: 26px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+	}
+	
+	#content p {
+		margin: 0 0 30px 0;
+	}
+	
+	#content a {
+		color: #a12121; text-decoration: none;
+	}
+		#content a:hover {
+			color: #671111;
+		}
+	
+#content .portfolio-item {
+	width: 250px; height: 160px; padding: 4px; background: #eee; text-align: center;
+	float: left; margin: 0 7px 14px 7px;
+}
+	#content .portfolio-item p.btn {
+		margin: 0;
+	}
+	#content .portfolio-item p.btn a {
+		display: block; width: 250px; height: 29px; padding: 7px 0 0 0;
+/*		background: url(images/checkit.jpg); */
+		font-weight: bold; text-align: center; text-transform: uppercase;
+		text-decoration: none;
+	}
+
+#footer {
+	background: url(images/footer.jpg) no-repeat; padding: 40px 0 0 0;
+	overflow: hidden; margin: 0 0 30px 0;
+}
+	#footer p#copyright {
+		font-size: 12px; float: left; margin: 0 0 0 30px; color: #b8b6b2;
+	}
+	#footer p#back-top {
+		font-size: 12px; float: right; margin: 0 30px 0 0;
+	}
+		#footer a {
+		color: #a12121; text-decoration: none;
+	}
+		#footer a:hover {
+			color: #671111;
+		}
+</style>
+</head>
+
+<body>
+	<div id="container">
+
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">Education and Experience</a></li>
+			<li><a href="projects.html">Projects</a></li>
+			<li><a href="others.html">Trivia</a></li>
+		</ul>
+
+		<div id="content">
+			
+			<p>
+			<h3>I spend a significant amount of my free time in developing an intuitive understanding of different fields of study through light articles and introductory online courses.
+			</p>
+			<p>
+			<h3>Pure and Applied Mathematics</h3>
+			This consumes most of my time.
+			</p>
+
+			<p>
+			<h3>Science and Social Sciences</h3>
+			I mainly focus on materials related to physics, economics, political science, anthropology, neuroscience, mysticism and astrophysics. Understanding of these subjects can help answer important questions from the macro world.
+			</p>
+
+			<p>
+			<h3>Music and Other Arts</h3>
+			I have learnt Hindustani classical music for 2 years on the flute. I also have an understanding of Western classical and computational music. Apart from these, I try to learn about poetry and painting to develop an appreciation of these creative fields.
+			</p>
+	
+			<p>
+			<h3>Sports</h3>
+			I swim regularly and can do the four "popular" strokes. At some point of time, I learnt some basketball.
+			</p>
+			
+		</div>
+		
+
+		<div id="footer">
+			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
+			<p id="back-top">My Favourites - <a href="http://www.coursera.org">Coursera</a><a href="http://www.edx.org">edX</a><a href="http://www.udacity.com">Udacity</a></p>
+		</div>
+	
+	</div>
+</body>
