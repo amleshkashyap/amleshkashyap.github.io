@@ -131,7 +131,7 @@ ul#nav {
 <body>
 	<div id="container">
 
-		<ul>
+		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
 			<li><a href="about.html">Education and Experience</a></li>
 			<li><a href="projects.html">Projects</a></li>
