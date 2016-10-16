@@ -14,10 +14,6 @@ body {
 	font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
 }
 
-p.big {
-	line-height: 800%;
-}
-
 #container {
 	width: 960px; margin: 0 auto;
 }
@@ -86,6 +82,10 @@ p.big {
 	#content p {
 		margin: 0 0 30px 0;
 	}	
+
+	#content p.big {
+		line-height: 800%;
+	}
 
 	#content a {
 		color: #a12121; text-decoration: none;
@@ -160,7 +160,7 @@ p.big {
 
 
 
-			<p id="big">
+			<p class="big">
 			<h3>Independent Projects</h3>
 			</p>
 
