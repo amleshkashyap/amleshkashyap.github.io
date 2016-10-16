@@ -15,7 +15,7 @@ body {
 }
 
 p.big {
-	line-height: 200%;
+	line-height: 800%;
 }
 
 #container {
