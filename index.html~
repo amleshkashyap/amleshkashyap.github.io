@@ -64,7 +64,7 @@ ul#nav {
 	}
 	#header p.btn a {
 		display: block; width: 225px; height: 50px; overflow: hidden;
-		background: url(nitp.jpg); text-indent: -9999px;
+		background: url(view_portfolio.jpg); text-indent: -9999px;
 	}
 
 #content {
@@ -126,7 +126,7 @@ ul#nav {
 
 <body>
 	<div id="container">
-		<p id="logo"><a href="#"><img src="logo.gif" alt="Amlesh Kashyap logo" /></a></p>
+		<p id="logo"><a href="#"><img src="human.png" alt="Amlesh Kashyap logo" /></a></p>
 
 		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
@@ -152,22 +152,22 @@ ul#nav {
 			<p>I’m forever creating</p>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="supercomputer.jpg" alt="View more info" /></a>
+				<a href="#"><img src="rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="quantumcomputer.jpg" alt="View more info" /></a>
+				<a href="#"><img src="rsz_quantumcomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="music_theory.jpg" alt="View more info" /></a>
+				<a href="#"><img src="rsz_music_theory.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="rsz_topology.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
 			</div>
 	
