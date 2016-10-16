@@ -138,27 +138,6 @@ body {
 		</ul>
 
 		<div id="content">
-			<p>
-			<h3>Research Projects</h3>
-			</p>
-
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Asynchronous and Synchronous Models of Execution of Longwaves</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-
-
 
 			<p class="big">
 			<h3>Independent Projects</h3>
@@ -191,19 +170,7 @@ body {
 	
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-
-
-			<p class="big">
-			<h3>Lab Administration</h3>
-			I have also handled some technical issues arising in the lab.
-			</p>
-
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-	
+				<p class="btn"><a href="#">See more</a></p>	
 
 			</div>
 
