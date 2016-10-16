@@ -23,7 +23,7 @@ body {
 } */
 
 ul#nav {
-	width: 940px; list-style: none;  overflow: hidden; margin: auto; /*  */
+	width: 940px; list-style: none;  overflow: hidden; margin: 134px auto 25px auto; /*  */
 }
 	ul#nav li {
 		float: left; width: 126px; height: 33px; padding: 13px 0 0 0;
