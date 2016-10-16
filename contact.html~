@@ -92,10 +92,10 @@ ul#nav {
 		}
 
 #contact {
-	width: 430px; margin: 60px auto; padding: 60px 30px;
+	width: 430px; /* margin: 60px auto; padding: 60px 30px; */
 	background: url(images/nav-bg.jpg); border: 1px solid #e1e1e1;
-	-moz-box-shadow: 0px 0px 8px #444;
-	-webkit-box-shadow: 0px 0px 8px #444;
+	/* -moz-box-shadow: 0px 0px 8px #444;
+	-webkit-box-shadow: 0px 0px 8px #444; */
 }
 
 h1 {
@@ -258,67 +258,26 @@ input[type=submit] {
 		</ul>
 
 
-		<div id="content">
-
-			<p class="big">
-			<h3>Independent Projects</h3>
-			</p>
-
-			<p class="big">
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Implementation of Shor's Algorithm in LiQUiD</a></p>
-			</div>
 	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Compiler for Classroom Oriented Programming Language (COOL)</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Image Processing using CUDA and OpenCV</a></p>
-			</div>
-			</p>
 
-			<p class="big">
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>	
-
-			</div>
-			</p>
-
-		</div>		
-
-<div id="contact">
-	<h1>Send me an Email</h1>
-	<form action="#" method="post">
-		<fieldset>
-			<label for="name">Name:</label>
-			<input type="text" id="name"/>
-			
-			<label for="email">Email:</label>
-			<input type="email" id="email"/>
-			
-			<label for="message">Message:</label>
-			<textarea id="message"></textarea>
-			
-			<input type="submit" value="Send" />
-			
-		</fieldset>
-	</form>
-</div>
+	<div id="contact">
+		<h1>Send me an Email</h1>
+		<form action="#" method="post">
+			<fieldset>
+				<label for="name">Name:</label>
+				<input type="text" id="name"/>
+				
+				<label for="email">Email:</label>
+				<input type="email" id="email"/>
+				
+				<label for="message">Message:</label>
+				<textarea id="message"></textarea>
+				
+				<input type="submit" value="Send" />
+				
+			</fieldset>
+		</form>
+	</div>	
 	</div>
 
 
