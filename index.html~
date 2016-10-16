@@ -22,7 +22,7 @@ ul#nav {
 	width: 940px; list-style: none;  overflow: hidden; margin: 40px auto 25px auto; /*  */
 }
 	ul#nav li {
-		float: left; width: 126px; height: 33px; padding: 14px 50px;
+		float: left; width: 126px; height: 33px; padding: 14px 35px;
 		background: url(images/content-bg.jpg);
 		font-weight: bold; text-align: center; /* text-transform: uppercase; */
 	}
@@ -158,8 +158,8 @@ ul#nav {
 		
 
 		<div id="footer">
-			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
-			<p id="back-top"><a href="#">Top?</a></p>
+			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> 
+			<p id="back-top"><a href="#">Top?</a></p> -->
 			<p id="bot-left">Last Updated : 16 October 2017</p>
 		</div>
 	
