@@ -156,6 +156,26 @@ input[type=submit] {
 	cursor: pointer;
 }
 
+#content #social {
+	width: 371px; float: left; 
+}		
+	#content #social ul {
+		list-style: none;
+	}
+		#content #social ul li {
+			float: left; margin: 0 20px 20px 0;
+		}
+			#content #social ul li a {
+				display: block; width: 100px; padding: 5px 0 5px 45px;
+				background: url(images/social-icons.png) no-repeat;
+			}
+				#content #social ul li a.twitter { background-position: 0 -3px; }
+				#content #social ul li a.youtube { background-position: -172px -1px; }
+				#content #social ul li a.facebook { background-position: -172px -136px; }
+				#content #social ul li a.flickr { background-position: 0 -71px; }
+				#content #social ul li a.digg { background-position: -172px -71px; }
+				#content #social ul li a.lastfm { background-position: 0 -140px; }
+
 </style>
 
 <!-- <style>
@@ -257,7 +277,10 @@ input[type=submit] {
 			<li><a href="#">Contact</a></li>
 		</ul>
 
-
+	<div class="content">
+		<div class="social">
+		</div>
+	</div>
 	
 
 	<div id="contact">
