@@ -56,6 +56,20 @@ ul#nav {
 			color: #671111;
 		}
 	
+	
+#content .portfolio-item {
+	width: 250px; height: 160px; padding: 4px; background: #eee; text-align: center;
+	float: left; margin: 0 7px 14px 7px;
+}
+	#content .portfolio-item p.btn {
+		margin: 0;
+	}
+	#content .portfolio-item p.btn a {
+		display: block; width: 250px; height: 58px; padding: 7px 0 0 0; font-size: 12px;
+/*		background: url(images/checkit.jpg); */
+		font-weight: bold; text-align: center; /* text-transform: uppercase; */
+		text-decoration: none;
+	}
 
 #footer {
 	background: url(images/content-bg.jpg) no-repeat; padding: 40px 0 0 0;
@@ -241,6 +255,50 @@ input[type=submit] {
 			<li><a href="projects.html">Projects</a></li>
 			<li><a href="contact.html">Trivia</a></li>
 		</ul>
+
+
+		<div id="content">
+
+			<p class="big">
+			<h3>Independent Projects</h3>
+			</p>
+
+			<p class="big">
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Implementation of Shor's Algorithm in LiQUiD</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Compiler for Classroom Oriented Programming Language (COOL)</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Image Processing using CUDA and OpenCV</a></p>
+			</div>
+			</p>
+
+			<p class="big">
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>
+			</div>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">See more</a></p>	
+
+			</div>
+			</p>
+
+		</div>		
 
 <div id="contact">
 	<h1>Send me an email</h1>
