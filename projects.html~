@@ -157,7 +157,7 @@ body {
 				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">Image Processing using CUDA and OpenCV</a></p>
 			</div>
-
+<br><br><br><br>
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
