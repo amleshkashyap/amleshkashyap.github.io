@@ -23,10 +23,10 @@ body {
 } */
 
 ul#nav {
-	width: 940px; list-style: none; /*  margin: -134px auto 25px auto; /* overflow: hidden; */
+	width: 960px; list-style: none;  overflow: hidden; /* margin: 0; /*  */
 }
 	ul#nav li {
-		width: 126px; height: 33px; float: left; /* padding: 13px 0 0 0; */
+		float: left; /* padding: 13px 0 0 0; width: 126px; height: 33px; */
 		background: url(images/nav-bg.jpg);
 		font-weight: bold; text-align: center; /* text-transform: uppercase; */
 	}
@@ -42,14 +42,14 @@ ul#nav {
 		}
 		ul#nav li:nth-child(4) {
 			margin: 0;
-		}
+		} */
 
 		ul#nav li a {
 			color: #616369; text-decoration: none;
 		}
 			ul#nav li a:hover {
 				color: #a12121;
-			} */
+			} 
 #header {
 	height: 244px; padding: 52px 0 0 57px;
 	background: url(images/content-bg.jpg);
