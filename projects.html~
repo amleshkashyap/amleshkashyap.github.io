@@ -82,7 +82,11 @@ body {
 	#content p {
 		margin: 0 0 30px 0;
 	}
-	
+
+	#content p.big {
+		    line-height: 200%;
+	}	
+
 	#content a {
 		color: #a12121; text-decoration: none;
 	}
@@ -155,11 +159,11 @@ body {
 			</div>
 			</p>
 
-			<p>
+			<p class="big">
 			<h3>Course Projects</h3>
 			</p>
 
-			<p>
+			<p class="big">
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
@@ -176,10 +180,10 @@ body {
 			</div>
 			</p>
 
-			<p>
+			<p class="big">
 			<h3>Independent Projects</h3>
 			</p>
-			<p>
+			<p class="big">
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="#">See more</a></p>
@@ -211,7 +215,7 @@ body {
 
 			</p>
 
-			<p>
+			<p class="big">
 			<h3>Lab Administration</h3>
 			I have also handled some technical issues arising in the lab.
 			</p>
