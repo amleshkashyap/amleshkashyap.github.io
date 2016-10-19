@@ -99,6 +99,9 @@ ul#nav {
 	#footer p#back-top {
 		font-size: 12px; float: right; margin: 0 30px 0 0;
 	}
+	#footer p {
+		font-size: 10px;
+}
 		#footer a {
 		color: #a12121; text-decoration: none;
 	}
