@@ -177,7 +177,7 @@ ul#nav {
 	
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="iot_summer_project.html">Smart Transportation</a></p>
+				<p class="btn"><a href="summer_iot_project.html">Smart Transportation</a></p>
 			</div>
 			
 			<div class="portfolio-item">

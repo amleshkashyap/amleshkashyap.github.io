@@ -151,9 +151,9 @@ ul#nav {
 
 			<h3>Contact and Social Media Profiles </h3>
 
-				<li>Email - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.</li>
-				<li><a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a> - Not Updated</li>
-				<li><a href="#">Github</a></li>
+				Email - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.<br>
+				<a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a> - Not Updated<br>
+				<a href="https://github.com/amleshkashyap">Github</a>
 
 		</div>
 <!--
@@ -179,10 +179,11 @@ ul#nav {
 			-->
 	</div>
 		
-
 		<div id="footer">
 			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
 			<p id="back-top">My Favourites - <a href="http://www.coursera.org">Coursera</a><a href="http://www.edx.org"> edX</a><a href="http://www.udacity.com"> Udacity</a></p>
+			<p>Every social group is built on identifications. The basis of spiritual process is to learn to live without an identity.</p>
+			<p>-- Jaggi Vasudev</p>
 		</div>
 	
 	</div>
