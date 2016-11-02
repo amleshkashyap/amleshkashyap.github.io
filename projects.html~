@@ -120,7 +120,7 @@ ul#nav {
 		font-size: 12px; float: right; margin: 0 30px 0 0;
 	}
 	#footer p {
-		font-size: 10px;
+		font-size: 11px;
 }
 		#footer a {
 		color: #a12121; text-decoration: none;
@@ -158,17 +158,17 @@ ul#nav {
 			<h3>Research Projects</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/xeonphi_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="radabs_async_sync.html">Asynchronous and Synchronous Models of Execution of Longwave Radiations</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/xeonphi_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="radiations_cam5.html">Hybrid Executions of Physics Routines - Radiations and Convections</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/gpu_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="gcharm.html">G Charm - A runtime framework for GPU, based on Charm++</a></p>
 			</div>
 		</div>
@@ -179,17 +179,17 @@ ul#nav {
 			<h3>Internships and Trainings</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/iot_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="summer_iot_project.html">Smart Transportation</a></p>
 			</div>
 			
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/mpi_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="summer_parallelization.html">Parallel Heat Equation Solver Using MPI</a></p>
 			</div>			
 
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/java_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="summer_hpes.html">ATM Simulator</a></p>
 			</div>
 			
@@ -201,12 +201,12 @@ ul#nav {
 			<h3>Undergraduate Projects</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/mood_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="undergrad_minor.html">Mood Based Music Player</a></p>
 			</div>
 			
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/crypto_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="undergrad_major.html">Encrypted File Transfer</a></p>
 			</div>			
 
@@ -220,12 +220,12 @@ ul#nav {
 
 			<p class="big">
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/imageproc_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="image_proc_indep.html">Image Processing using CUDA and OpenCV</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/liquid_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="quantum_factor_indep.html">Implementation of Shor's Algorithm in LiQUiD (Ongoing)</a></p>
 			</div>
 			
