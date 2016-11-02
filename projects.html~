@@ -201,7 +201,7 @@ ul#nav {
 			<h3>Undergraduate Projects</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/datamining_image.png" alt="View more info" /></a>
+				<a href="#"><img src="images/datamining_image.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="undergrad_minor.html">Mood Based Music Player</a></p>
 			</div>
 			
@@ -225,8 +225,8 @@ ul#nav {
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/liquid_image.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="quantum_factor_indep.html">Implementation of Shor's Algorithm in LiQUiD (Ongoing)</a></p>
+				<a href="#"><img src="images/compilers_image.png" alt="View more info" /></a>
+				<p class="btn"><a href="compiler_indep.html">Implementation of Shor's Algorithm in LiQUiD (Ongoing)</a></p>
 			</div>
 			
 		</div>
