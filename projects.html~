@@ -158,17 +158,17 @@ ul#nav {
 			<h3>Research Projects</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/xeonphi_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/xeonphi_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="radabs_async_sync.html">Asynchronous and Synchronous Models of Execution of Longwave Radiations</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/xeonphi_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/xeonphi_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="radiations_cam5.html">Hybrid Executions of Physics Routines - Radiations and Convections</a></p>
 			</div>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/gpu_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/gpu_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="gcharm.html">G Charm - A runtime framework for GPU, based on Charm++</a></p>
 			</div>
 		</div>
@@ -184,12 +184,12 @@ ul#nav {
 			</div>
 			
 			<div class="portfolio-item">
-				<a href="#"><img src="images/mpi_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/mpi_image.gif" alt="View more info" /></a>
 				<p class="btn"><a href="summer_parallelization.html">Parallel Heat Equation Solver Using MPI</a></p>
 			</div>			
 
 			<div class="portfolio-item">
-				<a href="#"><img src="images/java_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/java_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="summer_hpes.html">ATM Simulator</a></p>
 			</div>
 			
@@ -201,7 +201,7 @@ ul#nav {
 			<h3>Undergraduate Projects</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/mood_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/mood_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="undergrad_minor.html">Mood Based Music Player</a></p>
 			</div>
 			
