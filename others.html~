@@ -139,21 +139,23 @@ ul#nav {
 		</ul>
 
 		<div id="content">
-			<h3>Other Interests
+			<h3>Other Interests </h3>
 			<p>I spend some part of my free time in swimming, other parts in reading (non-fiction). World's knowledge is increasing extremely rapidly though.
 			</p>
 
 		</div>
 		<div id="content">
 
-			<h3>Contact and Social Media Profiles
-			<p>Email - <I>kashyapamlesh at gmail dot com </I></p>
-			<p><a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a></p>
-			<p><a href="https://plus.google.com/107934062845752087457">Google Plus</a></p>
-			<p><a href="">ResearchGate</a></p>
-			<p><a href="https://nitpatna.academia.edu/AmleshKashyap">Academia.Edu</a></p>
-			<p><a href="https://www.quora.com/profile/Amlesh-Kashyap">Quora</a></p>
-			<p>I even have a <a href="https://twitter.com/amleshkashyap">twitter</a> account.</p>
+			<h3>Contact and Social Media Profiles </h3>
+			<ul>
+				<p>Email - <I>kashyapamlesh at gmail dot com - Best way to reach me.</I></li>
+				<p><a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a> - Not Updated</li>
+				<p><a href="https://plus.google.com/107934062845752087457">Google Plus</a></li>
+				<p><a href="">ResearchGate</a> - Not Updated</li>
+				<p><a href="https://nitpatna.academia.edu/AmleshKashyap">Academia.Edu</a> - Not Updated</li>
+				<p><a href="https://www.quora.com/profile/Amlesh-Kashyap">Quora</a> - Not Updated</li>
+				<p>I even have a <a href="https://twitter.com/amleshkashyap">twitter</a> account - Archaic</li>
+			</ul>
 		</div>
 <!--
 			<p>
