@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Projects and Publications</title>
+<title>GCharm</title>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 <style>
 body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
@@ -141,95 +141,6 @@ ul#nav {
 			<li><a href="others.html">Trivia</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
-		
-		<div id="content">
-			
-			<h3>Publications</h3>
-	
-			<p>1. <I>Asynchronous and Synchronous Models of Executions on Intel Xeon Phi Coprocessor Systems for 
-			High Performance of Long Wave Radiation Calculations in Atmosphere models</I>, in review, Journal of Parallel and 
-			Distributed Computing (JPDC), 2016 (<a href="#">pdf</a>)</p>
-			<p>2. <I>Hybrid Executions of Radiations in CAM5 - Evaluating asynchronous executions, proportional 
-			partitioning and pipelining using Intel Xeon Phi coprocessors </I>, manuscript in preparation </p>
-		</div>
-		
-		<div id="content">
-			
-			<h3>Research Projects</h3>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/xeonphi_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="radabs_async_sync.html">Asynchronous and Synchronous Models of Execution of Longwave Radiations</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/xeonphi_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="radiations_cam5.html">Hybrid Executions of Physics Routines - Radiations and Convections</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/gpu_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="gcharm.html">G Charm - A runtime framework for GPU, based on Charm++</a></p>
-			</div>
-		</div>
-		
-		<div id="content">
-			
-			<p class="big">
-			<h3>Internships and Trainings</h3>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/iot_image.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="summer_iot_project.html">Smart Transportation</a></p>
-			</div>
-			
-			<div class="portfolio-item">
-				<a href="#"><img src="images/mpi_image.gif" alt="View more info" /></a>
-				<p class="btn"><a href="summer_parallelization.html">Parallel Heat Equation Solver Using MPI</a></p>
-			</div>			
-
-			<div class="portfolio-item">
-				<a href="#"><img src="images/java_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="summer_hpes.html">ATM Simulator</a></p>
-			</div>
-			
-		</div>		
-		
-		<div id="content">
-			
-			<p class="big">
-			<h3>Undergraduate Projects</h3>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/datamining_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="undergrad_minor.html">Mood Based Music Player</a></p>
-			</div>
-			
-			<div class="portfolio-item">
-				<a href="#"><img src="images/crypto_image.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="undergrad_major.html">Encrypted File Transfer</a></p>
-			</div>			
-
-		</div>
-		
-		<div id="content">
-
-			<p class="big">
-			<h3>Independent Projects</h3>
-			
-
-			<p class="big">
-			<div class="portfolio-item">
-				<a href="#"><img src="images/imageproc_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="image_proc_indep.html">Image Processing using CUDA and OpenCV</a></p>
-			</div>
-	
-			<div class="portfolio-item">
-				<a href="#"><img src="images/liquid_image.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="quantum_factor_indep.html">Implementation of Shor's Algorithm in LiQUiD (Ongoing)</a></p>
-			</div>
-			
-		</div>
 
 		
 		<div id="footer">

@@ -201,7 +201,7 @@ ul#nav {
 			<h3>Undergraduate Projects</h3>
 	
 			<div class="portfolio-item">
-				<a href="#"><img src="images/mood_image.png" alt="View more info" /></a>
+				<a href="#"><img src="images/datamining_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="undergrad_minor.html">Mood Based Music Player</a></p>
 			</div>
 			
@@ -220,7 +220,7 @@ ul#nav {
 
 			<p class="big">
 			<div class="portfolio-item">
-				<a href="#"><img src="images/imageproc_image.jpg" alt="View more info" /></a>
+				<a href="#"><img src="images/imageproc_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="image_proc_indep.html">Image Processing using CUDA and OpenCV</a></p>
 			</div>
 	
