@@ -134,46 +134,101 @@ ul#nav {
 		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
 			<li><a href="about.html">Education and Experience</a></li>
-			<li><a href="#">Projects</a></li>
+			<li><a href="#">Projects and Publications</a></li>
 			<li><a href="others.html">Trivia</a></li>
-			<li><a href="contact.html">Contact</a></li>
+			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
-
+		
 		<div id="content">
-
-			<p class="big">
-			<h3>Independent Projects</h3>
-			</p>
-
-			<p class="big">
+			
+			<h3>Publications</h3>
+	
+			<p>1. <I>Asynchronous and Synchronous Models of Executions on Intel Xeon Phi Coprocessor Systems for 
+			High Performance of Long Wave Radiation Calculations in Atmosphere models</I>, in review, Journal of Parallel and 
+			Distributed Computing (JPDC), 2016 (<a href="#">pdf</a>)</p>
+			<p>2. <I>Hybrid Executions of Radiations in CAM5 - Evaluating asynchronous executions, proportional 
+			partitioning and pipelining using Intel Xeon Phi coprocessors </I>, manuscript in preparation </p>
+		</div>
+		
+		<div id="content">
+			
+			<h3>Research Projects</h3>
+	
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Implementation of Shor's Algorithm in LiQUiD</a></p>
+				<p class="btn"><a href="#">Asynchronous and Synchronous Models of Execution of Longwave Radiations</a></p>
 			</div>
 	
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Compiler for Classroom Oriented Programming Language (COOL)</a></p>
+				<p class="btn"><a href="#">Hybrid Executions of Physics Routines - Radiations and Convections</a></p>
 			</div>
 	
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">Image Processing using CUDA and OpenCV</a></p>
+				<p class="btn"><a href="#">G Charm - A runtime framework for GPU, based on Charm++</a></p>
 			</div>
-			</p>
+		</div>
+		
+		<div id="content">
+			
+			<p class="big">
+			<h3>Internships and Trainings</h3>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Smart Transportation</a></p>
+			</div>
+			
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Parallel Heat Equation Solver Using MPI</a></p>
+			</div>			
+
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">ATM Simulator</a></p>
+			</div>
+			
+		</div>		
+		
+		<div id="content">
+			
+			<p class="big">
+			<h3>Undergraduate Projects</h3>
+	
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Mood Based Music Player</a></p>
+			</div>
+			
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_topology.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Encrypted File Transfer</a></p>
+			</div>			
+
+		</div>
+		
+		<div id="content">
+
+			<p class="big">
+			<h3>Independent Projects</h3>
+			
 
 			<p class="big">
 			<div class="portfolio-item">
 				<a href="#"><img src="images/rsz_supercomputer.jpg" alt="View more info" /></a>
-				<p class="btn"><a href="#">See more</a></p>
+				<p class="btn"><a href="#">Image Processing using CUDA and OpenCV</a></p>
 			</div>
 	
-
+			<div class="portfolio-item">
+				<a href="#"><img src="images/rsz_quantumcomputer.jpg" alt="View more info" /></a>
+				<p class="btn"><a href="#">Implementation of Shor's Algorithm in LiQUiD (Ongoing)</a></p>
 			</div>
-			</p>
+			
+		</div>
 
-		</div>		
-
+		
 		<div id="footer">
 			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
 			<p id="back-top"><a href="http://www.digg.com/">Digg</a></p>
