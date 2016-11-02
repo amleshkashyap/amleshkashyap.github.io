@@ -117,42 +117,32 @@ ul#nav {
 		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
 			<li><a href="#">Education and Experience</a></li>
-			<li><a href="projects.html">Projects</a></li>
+			<li><a href="projects.html">Projects and Publications</a></li>
 			<li><a href="others.html">Trivia</a></li>
-			<li><a href="contact.html">Contact</a></li>
+			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
 
 		<div id="content">
-			<p>
-			<ul> 
-			<li>
 			<h3>Education</h3></li>
-			</ul>
 	
-			<p>I received my undergraduate degree last year, in September.
+			<p>I received my undergraduate degree last year, in September. </p>
 	
-			<ul>
-				<li>Bachelor of Technology (2011-2015) - <a href="http://www.nitp.ac.in">National Institute of Technology, Patna</a></li>
-				<li>Class X, XII (2009, 2011) - <a href="http://www.davschoolkhagaul.org/">D.A.V. Public School, Khagaul</a></li>
-				<li>Junior Diploma (2013-2015) - <a href="http://www.prayagsangeetsamiti.co.in/">Prayag Sangeet Samiti, Allahabad</a></li>
-			</ul>
-			</p>
+			<p>Bachelor of Technology (2011-2015) - <a href="http://www.nitp.ac.in">National Institute of Technology, Patna</a></p>
+			<p>Class X, XII (2009, 2011) - <a href="http://www.davschoolkhagaul.org/">D.A.V. Public School, Khagaul</a></p>
+			<p>Junior Diploma (2013-2015) - <a href="http://www.prayagsangeetsamiti.co.in/">Prayag Sangeet Samiti, Allahabad</a></p>
 
-			<p>	
-			<ul>
-			<li>
+		</div>
+
+		<div id="content">
 			<h3>Experience</h3></li>
-			</ul>
 	
-			<p>I started working in June last year.
+			<p>I started working in June last year. </p>
 	
-			<ul>
-				<li>Research/Project Assistant (Since June 2015) - <a href="http://mars.serc.iisc.ernet.in/">Middleware and Runtime Systems Laboratory</a></li>
-				<li>Summer Student (June 2016) - <a href="https://www.microsoft.com/en-us/research/event/msr-india-summer-school-2016-on-iot/">Microsoft Research, Indian Institute of Science</a></li>
-				<li>Summer Intern (May-July 2014) - <a href="http://www.mecheng.iisc.ernet.in/~gtom/#research">Multiphase Flow Simulations Laboratory</a></li>
-				<li>Summer Trainee (June 2013) - <a href="http://hpesindia.com/summer-training-program.html">HP Education Services</a> </li>			
-			</ul>
-			</p>
+			<p>Research/Project Assistant (Since June 2015) - <a href="http://mars.serc.iisc.ernet.in/">Middleware and Runtime Systems Laboratory</a></p>
+			<p>Summer Student (June 2016) - <a href="https://www.microsoft.com/en-us/research/event/msr-india-summer-school-2016-on-iot/">Microsoft Research, Indian Institute of Science</a></p>
+			<p>Summer Intern (May-July 2014) - <a href="http://www.mecheng.iisc.ernet.in/~gtom/#research">Multiphase Flow Simulations Laboratory</a></p>
+			<p>Summer Trainee (June 2013) - <a href="http://hpesindia.com/summer-training-program.html">HP Education Services</a> </p>			
+			
 		</div>
 		
 
