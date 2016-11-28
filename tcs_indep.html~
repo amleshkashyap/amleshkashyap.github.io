@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Amlesh Kashyap Portfolio</title>
+<title>Theoretical Computer Science</title>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 <style>
 body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
@@ -18,6 +18,10 @@ body {
 	width: 960px; margin: 0 auto;
 }
 
+/* #logo {
+	margin: 10px auto 0 auto; position: relative; width: 183px;
+} */
+
 ul#nav {
 	width: 940px; list-style: none;  overflow: hidden; margin: 40px auto 25px auto; /*  */
 }
@@ -26,13 +30,26 @@ ul#nav {
 		background: url(images/content-bg.jpg);
 		font-weight: bold; text-align: center; /* text-transform: uppercase; */
 	}
+/*
+		ul#nav li:nth-child(1) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(2) {
+			margin: 0 316px 0 0;
+		}
+		ul#nav li:nth-child(3) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(4) {
+			margin: 0;
+		} */
 
 		ul#nav li a {
 			color: #616369; text-decoration: none;
 		}
 			ul#nav li a:hover {
 				color: #a12121;
-			}
+			} 
 #header {
 	height: 244px; padding: 52px 0 0 57px;
 	background: url(images/content-bg.jpg);
@@ -47,7 +64,7 @@ ul#nav {
 		/* text-shadow: 0px 3px 3px #494949; */
 	}
 	#header p.btn a {
-		display: block; width: 100px; height: 50px; /* overflow: hidden; */
+		display: block; width: 150px; height: 50px; /* overflow: hidden; */
 		background: url(images/cv.jpg); text-indent: -9999px;
 	}
 
@@ -65,8 +82,12 @@ ul#nav {
 	
 	#content p {
 		margin: 0 0 30px 0;
+	}	
+
+	#content p.big {
+		line-height: 800%;
 	}
-	
+
 	#content a {
 		color: #a12121; text-decoration: none;
 	}
@@ -99,11 +120,8 @@ ul#nav {
 		font-size: 12px; float: right; margin: 0 30px 0 0;
 	}
 	#footer p {
-		font-size: 11px; float: left;
-	}
-	#footer p#bot-left {
-		font-size: 12px; float: right; margin: 0;
-	}
+		font-size: 11px;
+}
 		#footer a {
 		color: #a12121; text-decoration: none;
 	}
@@ -111,47 +129,26 @@ ul#nav {
 			color: #671111;
 		}
 </style>
-
 </head>
 
 <body>
 	<div id="container">
-<!--		<p id="logo"><a href="#"><img src="images/human.png" alt="Amlesh Kashyap logo" /></a></p> -->
 
 		<ul id="nav">
-			<li><a href="#">Home</a></li>
+			<li><a href="index.html">Home</a></li>
 			<li><a href="about.html">Education and Experience</a></li>
 			<li><a href="projects.html">Projects and Publications</a></li>
 			<li><a href="others.html">Trivia</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
-
-		<div id="header">
-			<h1>Amlesh Kashyap</h1>
-			<h4>Broadly, I have experience in Parallel Computation. My current work is focused on hybrid algorithms and 				software. I've peripheral interests in theoretical aspects of computation. I hold a bachelors degree 				in Computer Science and Engineering.
-			</h4>
-			<h5> I am attending the International Conference on High Performance Computing (<a href="http://www.hipc.org/hipc2016/index.php">HiPC</a>) in Hyderabad from Dec 19-22. Let's meet up.
-			</h5>
-		<br>
-		<br>
-			<p class="btn"><a href="resume.pdf">Resume</a></p>
-		</div>
-
 		<div id="content">
-			<h3>About</h3>
-	
-			<p>Currently I am working as a Research/Project Assitant at Middleware and Runtime Systems (<a href="http://mars.serc.iisc.ernet.in/">MARS</a>) Laboratory. This lab is a part of the newly created Department of Computational and Data Sciences 				(<a href="http://cds.iisc.ac.in/">CDS</a>), at Indian Institute of Science (<a href="http://www.iisc.ac.in/">IISc</a>), Bangalore. Have a look at my <a href="projects.html">projects</a>.</p>
-				
+		In this independent project, I have, and will keep adding, presentations created by me based on some interesting and important 
+    papers in theoretical computer science. I'll also provide links to other interesting papers.
 		</div>
 		
-
 		<div id="footer">
-			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> 
-			<p id="back-top"><a href="#">Top?</a></p> -->
-			<p id="bot-left">Last Updated : 03-11-2017</p>
-			<p>It is much more difficult to learn to enjoy doing things that were discovered recently in our evolution, like manipulating symbolic systems by doing math or science or writing poetry or music.</p>
-			<p>-- Mihaly Czikszentmihalyi</p>
-
+			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
+			<p id="back-top"><a href="http://www.digg.com/">Digg</a></p>
 		</div>
 	
 	</div>
