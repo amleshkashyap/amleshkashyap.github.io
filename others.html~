@@ -118,28 +118,36 @@ ul#nav {
 			<li><a href="index.html">Home</a></li>
 			<li><a href="about.html">Education and Experience</a></li>
 			<li><a href="projects.html">Projects and Publications</a></li>
-			<li><a href="#">Trivia</a></li>
+			<li><a href="#">Contact and Other Interests</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
 
-		<div id="content">
-			<h3>Other Interests </h3>
-			<p>I spend some part of my free time in swimming, other parts in reading (non-fiction). World's knowledge is increasing extremely rapidly though.</p>
-			<p><B>Online Courses Completed</B> - Automata (Coursera), Algorithms 1(Coursera), Cryptography (Coursera), Machine Learning (Coursera), Parallel Computing (Udacity), Fundamentals of 				Music Theory (Coursera), Quantum Mechanics and Quantum Computation (edX) </p>
-			<p>Watched All Lectures - Global Diplomacy (Coursera), Art of Poetry (edX), Learning How To Learn (Coursera),  </p>
-			<p><B>Languages </B>I can speak (<a href="https://en.wikipedia.org/wiki/ILR_scale">Proficiency</a>) - Hindi (Native), Maithili (Native), English (Full Professional), Sanskrit 				(Limited Working), Kannada (Limited Working), Spanish (Elementary), Portuguese (Elementary) </p>
-			<p><B>Music</B> - I could play <a href="images/bansuri.jpg">this</a> flute quite fluently. I don't play it anymore though.</p>
-			</p>
-		</div>
 		<div id="content">
 
 			<h3>Contact and Social Media Profiles </h3>
 
 				Email - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.<br>
 				<a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a> - Not Updated<br>
-				<a href="https://github.com/amleshkashyap">Github</a>
+				<a href="https://software.intel.com/en-us/user/1177366">Intel Developer Xone</a><br>
+				<a href="https://www.duolingo.com/amleshkashyap">Duolingo</a><br>
+				<!-- <a href="https://github.com/amleshkashyap">Github</a> -->
 
 		</div>
+
+		<div id="content">
+			<h3>Other Interests </h3>
+			<p>I spend some part of my free time in swimming.</p>
+
+			<p><B>Online Courses Completed</B> - Automata (Coursera), Algorithms 1(Coursera), Cryptography (Coursera), 				Machine Learning (Coursera), Parallel Computing (Udacity), Fundamentals of Music Theory (Coursera), Quantum 				Mechanics and Quantum Computation (edX) </p>
+
+			<p>Watched All Lectures - Global Diplomacy (Coursera), Art of Poetry (edX), Learning How To Learn 				(Coursera)  </p>
+
+			<p><B>Languages </B>I can speak (<a href="https://en.wikipedia.org/wiki/ILR_scale">Proficiency</a>) - Hindi 				(Native), Maithili (Native), English (Full Professional), Sanskrit (Limited Working), Kannada (Limited 				Working), Spanish (Elementary), Portuguese (Elementary) </p>
+
+			<p><B>Music</B> - I could play <a href="images/bansuri.jpg">this</a> flute quite fluently. I don't play it 				anymore though.</p>
+			
+		</div>
+
 <!--
 			<p>
 			<h3>Pure and Applied Mathematics</h3>
