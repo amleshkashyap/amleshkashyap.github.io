@@ -120,7 +120,7 @@ ul#nav {
 		font-size: 12px; float: right; margin: 0 30px 0 0;
 	}
 	#footer p {
-		font-size: 11px; float: left;
+		font-size: 11px; 
 	}
 	#footer a {
 		color: #a12121; text-decoration: none;
@@ -236,7 +236,7 @@ ul#nav {
 			</div>
 			
 			<!-- <div class="portfolio-item">
-				<a href="#"><img src="images/tcs_indep.jpg" alt="View more info" /></a>
+				<a href="tcs_indep.html"><img src="images/tcs_indep.jpg" alt="View more info" /></a>
 				<p class="btn"><a href="tcs_indep.html">Topics in Theoretical Computer Science</a></p>
 			</div> -->			
 			
