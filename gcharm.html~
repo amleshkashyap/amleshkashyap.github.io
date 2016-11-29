@@ -138,25 +138,25 @@ ul#nav {
 			<li><a href="index.html">Home</a></li>
 			<li><a href="about.html">Education and Experience</a></li>
 			<li><a href="projects.html">Projects and Publications</a></li>
-			<li><a href="others.html">Trivia</a></li>
+			<li><a href="others.html">Contact and Other Interests</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
 		<div id="content">
 		<p>
-		G-Charm is a generic framework, based on Charm++. It's runtime systems contains the following optimizations - 
-		a. Dynamic Scheduling of the work on CPU and GPU
-		b. Memory management on the GPU
-		c. Reducing the data transfer across CPU and GPU by maximum data reuse on the GPU
+		G-Charm is a generic framework, based on Charm++. It's runtime systems contains the following optimizations - <br>
+		a. Dynamic Scheduling of the work on CPU and GPU<br>
+		b. Memory management on the GPU<br>
+		c. Reducing the data transfer across CPU and GPU by maximum data reuse on the GPU<br>
 		d. Combining multiple kernel invocations into a single one to avoid communication between heterogeneous resources and 			   to utilize the GPU more efficiently.</p>
 		<p>
 		G-Charm also provides a programming interface, wherein the programmer writes separate GPU CUDA kernel and CPU Charm++
-   		   functions. G-Charm has been demonstrated on three highly useful scientific applications - 
-		a. 2D Jacobi Solver (Regular application)
-		b. Dense Matrix Cholesky Factorization (Regular application)
-  		c. Molecular Dynamics Simulation (Irregular application)
+   		   functions. G-Charm has been demonstrated on three highly useful scientific applications - <br>
+		a. 2D Jacobi Solver (Regular application)<br>
+		b. Dense Matrix Cholesky Factorization (Regular application)<br>
+  		c. Molecular Dynamics Simulation (Irregular application)<br>
 		</p>
 		<p>
-		My work focuses on improving the efficiency of the current state of G-Charm, a research prototype. It also aims 		at adding more application support to G-Charm. Ultimately, it has to be converted into a fully-fledged open source 			software. </p>
+		My work focuses on improving the efficiency of the current state of G-Charm, a research prototype. It also aims 		at adding more application support to G-Charm. Ultimately, it has to be converted into a fully-fledged open source 			software. Find the paper <a href="http://www.serc.iisc.ernet.in/~vss/publications/vasudevan-gcharm-ics2013.pdf">here</a>.</p>
 		</div>
 		
 		<div id="footer">
