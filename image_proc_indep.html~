@@ -48,7 +48,7 @@ ul#nav {
 			color: #616369; text-decoration: none;
 		}
 			ul#nav li a:hover {
-				color: #a12121;
+				color: #0000ff;
 			} 
 #header {
 	height: 244px; padding: 52px 0 0 57px;
@@ -123,7 +123,7 @@ ul#nav {
 		font-size: 11px;
 }
 		#footer a {
-		color: #a12121; text-decoration: none;
+		color: #0000ff; text-decoration: none;
 	}
 		#footer a:hover {
 			color: #671111;
@@ -141,8 +141,13 @@ ul#nav {
 			<li><a href="others.html">Contact and Other Interests</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
-		<div id="content">
-		
+		<div id="content">	
+		<p>	This is an independent project. It comprises of three mini projects -
+		<br>1. Learning CUDA, manipulating an image, improving the performance of the algorithm for GPU.
+		<br>2. Blurring a video using Gaussian and Median Blur. This was done with the help of OpenCV. Code was implemented 			    for both CPU (single core) and GPU. It was to be used as a demonstration for parallel computing in the Open Day 			    2016 at Department of CDS.
+		<br>3. Implementation of Gaussian and Median blur using CUDA for GPU. 
+		<br> More details will be added soon.
+		</p>
 		</div>
 		
 		<div id="footer">

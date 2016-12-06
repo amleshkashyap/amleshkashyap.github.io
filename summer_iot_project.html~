@@ -48,7 +48,7 @@ ul#nav {
 			color: #616369; text-decoration: none;
 		}
 			ul#nav li a:hover {
-				color: #a12121;
+				color: #0000ff;
 			} 
 #header {
 	height: 244px; padding: 52px 0 0 57px;
@@ -123,7 +123,7 @@ ul#nav {
 		font-size: 11px;
 }
 		#footer a {
-		color: #a12121; text-decoration: none;
+		color: #0000ff; text-decoration: none;
 	}
 		#footer a:hover {
 			color: #671111;
@@ -141,7 +141,9 @@ ul#nav {
 			<li><a href="others.html">Contact and Other Interests</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
-
+		<div id="content">	
+		<p>	This project was done during the summer school on IoT. This was done in a team of 5, all the students were 				from IISc and IIT's. We developed an application that would detect abnormal events during a car journey using 				the data obtained from the accelerometer. We also had a camera fit on the raspberry 				pi. We would detect sharp turns, bumps and possible accidents. In case of possible accidents, we would 				immediately start video recording and send a message along with the video clip to the subscribed parties, for 				confirmation of accident and providing help, if needed. <br>More updates soon.
+		</div>
 		
 		<div id="footer">
 			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
