@@ -159,24 +159,25 @@ ul#nav {
 	
 			<div class="portfolio-item">
 				<a href="radabs_async_sync.html"><img src="images/xeonphi_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="radabs_async_sync.html">Asynchronous and Synchronous Models of Execution of Longwave Radiations</a></p>
+				<p class="btn"><a href="radabs_async_sync.html">Asynchronous and Synchronous Models of Execution of 					Longwave Radiations</a></p>
 			</div>
 	
 			<div class="portfolio-item">
 				<a href="radiations_cam5.html"><img src="images/xeonphi_image.png" alt="View more info" /></a>
-				<p class="btn"><a href="radiations_cam5.html">Hybrid Executions of Physics Routines - Radiations and Convections</a></p>
+				<p class="btn"><a href="radiations_cam5.html">Hybrid Executions of Physics Routines - Radiations and 					Convections</a></p>
 			</div>
 	
 			<div class="portfolio-item">
 				<a href="gcharm.html"><img src="images/gpu_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="gcharm.html">G Charm - A runtime framework for GPU, based on Charm++</a></p>
 			</div>
+
 			<br>
 			<br>
 			<br>
 			<br>
-			
-			<p class="big">
+	
+
 			<h3>Internships and Trainings</h3>
 	
 			<div class="portfolio-item">
@@ -193,13 +194,14 @@ ul#nav {
 				<a href="summer_hpes.html"><img src="images/java_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="summer_hpes.html">ATM Simulator</a></p>
 			</div>
+
+			<br>
+			<br>
+			<br>
+			<br>			
+
 			
-			<br>
-			<br>
-			<br>
-			<br>
-			
-			<p class="big">
+	
 			<h3>Undergraduate Projects</h3>
 	
 			<div class="portfolio-item">
@@ -216,7 +218,7 @@ ul#nav {
 			<br>
 			<br>
 			<br>
-			<p class="big">
+
 			<h3>Independent Projects</h3>
 			
 			<div class="portfolio-item">
