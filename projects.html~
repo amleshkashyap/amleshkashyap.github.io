@@ -154,10 +154,7 @@ ul#nav {
 			Distributed Computing (JPDC), 2016 (<a href="#">pdf</a>)</p>
 			<p>2. <I>Hybrid Executions of Radiations in CAM5 - Evaluating asynchronous executions, proportional 
 			partitioning and pipelining using Intel Xeon Phi coprocessors </I>, Amlesh Kashyap, Sathish Vadhiyar, Ravi 				Nanjundiah, P.N. Vinayachandran, manuscript in preparation </p>
-		</div>
-		
-		<div id="content">
-			
+
 			<h3>Research Projects</h3>
 	
 			<div class="portfolio-item">
@@ -174,9 +171,10 @@ ul#nav {
 				<a href="gcharm.html"><img src="images/gpu_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="gcharm.html">G Charm - A runtime framework for GPU, based on Charm++</a></p>
 			</div>
-		</div>
-		
-		<div id="content">
+			<br>
+			<br>
+			<br>
+			<br>
 			
 			<p class="big">
 			<h3>Internships and Trainings</h3>
@@ -196,9 +194,10 @@ ul#nav {
 				<p class="btn"><a href="summer_hpes.html">ATM Simulator</a></p>
 			</div>
 			
-		</div>		
-		
-		<div id="content">
+			<br>
+			<br>
+			<br>
+			<br>
 			
 			<p class="big">
 			<h3>Undergraduate Projects</h3>
@@ -213,15 +212,13 @@ ul#nav {
 				<p class="btn"><a href="undergrad_2.html">Encrypted File Transfer</a></p>
 			</div>			
 
-		</div>
-		
-		<div id="content">
-
+			<br>
+			<br>
+			<br>
+			<br>
 			<p class="big">
 			<h3>Independent Projects</h3>
 			
-
-			<p class="big">
 			<div class="portfolio-item">
 				<a href="image_proc_indep.html"><img src="images/imageproc_image.png" alt="View more info" /></a>
 				<p class="btn"><a href="image_proc_indep.html">Image Processing using CUDA and OpenCV</a></p>
