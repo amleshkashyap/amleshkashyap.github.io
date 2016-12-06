@@ -20,7 +20,7 @@ body {
 
 
 #logo {
-	margin: 0 0 20px 0; position: relative; width: 135px; height: 250px;
+	 float: right; width: 135px; height: 250px; /* margin: 0 0 20px 0; position: relative; */
  }
 
 ul#nav {
