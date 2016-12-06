@@ -31,7 +31,7 @@ ul#nav {
 			color: #616369; text-decoration: none;
 		}
 			ul#nav li a:hover {
-				color: #a12121;
+				color: #0000ff;
 			}
 #header {
 	height: 244px; padding: 52px 0 0 57px;
@@ -119,7 +119,7 @@ ul#nav {
 
 <body>
 	<div id="container">
-<!--		<p id="logo"><a href="#"><img src="images/human.png" alt="Amlesh Kashyap logo" /></a></p> -->
+		<p id="logo"><a href="#"><img src="images/profile_image.jpg" alt="Amlesh Kashyap logo" /></a></p> 
 
 		<ul id="nav">
 			<li><a href="#">Home</a></li>
