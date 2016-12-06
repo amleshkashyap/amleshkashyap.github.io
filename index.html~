@@ -130,7 +130,7 @@ ul#nav {
 		</ul>
 
 		<div id="content">
-			<h1>Amlesh Kashyap</h1>		
+			<h1>Amlesh Kashyap</h1>	<br>	
 			<h3>About</h3>
 	
 			<p> I am a Research Assitant at Middleware and Runtime Systems 
@@ -146,9 +146,9 @@ ul#nav {
 		</div>
 
 		<div id="content">
-			<h4>Events</h4><br>
+			<h3>Events</h3><br>
 			1. I am attending the International Conference on High Performance Computing, Data and Analytics 
-			(<a href="http://www.hipc.org/hipc2016/index.php">HiPC</a>) in Hyderabad from Dec 19-22. Let's meet up.
+			(<a href="http://www.hipc.org/hipc2016/index.php">HiPC</a>) in Hyderabad from Dec 19-22. Let's meet up.<br>
 			2. I was at the Intel Xeon Phi -
 			<a href="http://www.dqindia.com/intel-announced-launch-of-intel-xeon-phi-for-high-performance-computing/"> 				India Launch</a> in September 2016, at Ritz Carlton, Bangalore.
 			
