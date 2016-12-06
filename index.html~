@@ -129,11 +129,8 @@ ul#nav {
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
 
-		<div id="header">
-			<h1>Amlesh Kashyap</h1>
-		</div>
-
 		<div id="content">
+			<h1>Amlesh Kashyap</h1>		
 			<h3>About</h3>
 	
 			<p> I am a Research Assitant at Middleware and Runtime Systems 
@@ -148,32 +145,17 @@ ul#nav {
 			<p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	
 		</div>
 
-		<div id="header">
-			<h1>Amlesh Kashyap</h1>
-			<h4> <!-- I am also advised by . -->
-			</h4><br>
-			<h4>Events</h4>
-			<h5>1. I am attending the International Conference on High Performance Computing, Data and Analytics 
+		<div id="content">
+			<h4>Events</h4><br>
+			1. I am attending the International Conference on High Performance Computing, Data and Analytics 
 			(<a href="http://www.hipc.org/hipc2016/index.php">HiPC</a>) in Hyderabad from Dec 19-22. Let's meet up.
-			<h5>2. I was at the Intel Xeon Phi -
+			2. I was at the Intel Xeon Phi -
 			<a href="http://www.dqindia.com/intel-announced-launch-of-intel-xeon-phi-for-high-performance-computing/"> 				India Launch</a> in September 2016, at Ritz Carlton, Bangalore.
-			</h5>
+			
 		<br>
 
 		</div>
-
-		<div id="content">
-			<h3>About</h3>
 	
-			<p> Broadly, I have experience in Parallel Computation. At MARS lab, my work is focused on hybrid algorithms 				and software. This lab is a part of the newly created Department of Computational and Data Sciences 				(<a href="http://cds.iisc.ac.in/">CDS</a>), at Indian Institute of Science 
-			(<a href="http://www.iisc.ac.in/">IISc</a>), Bangalore. For one of my projects, I frequently collaborate with 
-			<a href="http://caos.iisc.ac.in/faculty/ravi.html">Prof. Ravi Nanjundiah</a> from 
-			<a href="http://caos.iisc.ac.in/">CAOS</a>. Have a look at my <a href="projects.html">projects</a>.</p>
-			
-			<br>
-			<p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	
-		</div>
-					
 		
 
 		<div id="footer">
