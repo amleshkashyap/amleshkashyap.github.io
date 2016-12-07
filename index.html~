@@ -146,11 +146,10 @@ ul#nav {
 			Broadly, I have experience in Parallel Computation. At MARS lab, my work is focused on hybrid algorithms 				and software. This lab is a part of the Department of Computational and Data Sciences 				(<a href="http://cds.iisc.ac.in/">CDS</a>), at Indian Institute of Science 
 			(<a href="http://www.iisc.ac.in/">IISc</a>), Bangalore. For one of my projects, I frequently collaborate with 
 			<a href="http://caos.iisc.ac.in/faculty/ravi.html">Prof. Ravi Nanjundiah</a> from 
-			<a href="http://caos.iisc.ac.in/">CAOS</a>. Have a look at my <a href="projects.html">projects</a>.</p>
+			<a href="http://caos.iisc.ac.in/">CAOS</a>. Have a look at my <a href="projects.html">projects</a>. You can 				find my curriculum vitae <a href="resume.pdf">here</a>.</p>
 			
-			<p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	
-			<br>
-		
+			<!-- <p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	 -->
+			
 	
 			<h3>Events</h3>
 			1. I am attending the International Conference on High Performance Computing, Data and Analytics 
@@ -161,11 +160,11 @@ ul#nav {
 		<br><br>
 			<h3>Contact</h3>
 
-				<B>Email</B> - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.<br>
-				<B>Mobile</B> - <I>(+91) 7677853656 </I>  <br>
-				<B>Address</B> - 327, MARS Lab, Department of CDS, IISc, Malleshwaram, Bangalore - 560012 <br>
-				<a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a> - Not Updated<br>
-				<a href="https://software.intel.com/en-us/user/1177366">Intel Developer Zone</a><br>
+				Email - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.<br>
+				<!-- Mobile - <I>(+91) 7677853656 </I>  <br> -->
+				Address - 327, MARS Lab, Department of CDS, IISc, Malleshwaram, Bangalore - 560012 <br>
+				<!-- <a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a><br>
+				<a href="https://software.intel.com/en-us/user/1177366">Intel Developer Zone</a><br> -->
 		</div>
 	
 		
