@@ -20,7 +20,7 @@ body {
 
 
 #logo {
-	 float: right; width: 135px; height: 250px; /* margin: 0 0 20px 0; position: relative; */
+	 float: right; width: 125px; height: 160px; /* margin: 0 0 20px 0; position: relative; */
  }
 
 ul#nav {
@@ -136,7 +136,7 @@ ul#nav {
 
 
 		<div id="content">
-		<p id="logo"><img src="images/rsz_1rsz_profile_image.jpg" /></p> 
+		<p id="logo"><img src="images/profile_image.jpg" /></p> 
 			<h1>Amlesh Kashyap</h1>	<br><br>	
 			<h3>Bio</h3>
 	
