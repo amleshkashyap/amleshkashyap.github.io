@@ -61,7 +61,7 @@ ul#nav {
 
 #content {
 	background: url(images/content-bg.jpg) repeat-y;
-	padding: 57px 69px 50px 69px; overflow: hidden;
+	padding: 57px 69px 50px 69px; overflow: hidden; font-size:14px; color:#000000;
 }
 	#content h2 {
 		font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
@@ -72,7 +72,7 @@ ul#nav {
 	}
 	
 	#content p {
-		margin: 0 0 30px 0; font-size: 14px;
+		margin: 0 0 30px 0; font-size: 14px; color:#000000;
 	}
 	
 	#content a {
@@ -138,7 +138,7 @@ ul#nav {
 		<div id="content">
 		<p id="logo"><img src="images/profile_image.jpg" /></p> 
 			<h1>Amlesh Kashyap</h1>	<br><br>	
-			<h3>Bio</h3>
+			<h4>Bio</h4>
 	
 			<p> I am a Research Assitant at Middleware and Runtime Systems 
 			(<a href="http://mars.serc.iisc.ernet.in/">MARS</a>) Laboratory. My advisor is 
@@ -152,14 +152,14 @@ ul#nav {
 			<!-- <p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	 -->
 			
 	
-			<h3>Events</h3>
+			<h4>Events</h4>
 			1. I am attending the International Conference on High Performance Computing, Data and Analytics 
 			(<a href="http://www.hipc.org/hipc2016/index.php">HiPC</a>) in Hyderabad from Dec 19-22. Let's meet up.<br>
 			2. I was at the Intel Xeon Phi -
 			<a href="http://www.dqindia.com/intel-announced-launch-of-intel-xeon-phi-for-high-performance-computing/"> 				India Launch</a> in September 2016, at Ritz Carlton, Bangalore.
 			
 		<br><br>
-			<h3>Contact</h3>
+			<h4>Contact</h4>
 
 				Email - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.<br>
 				<!-- Mobile - <I>(+91) 7677853656 </I>  <br> -->
