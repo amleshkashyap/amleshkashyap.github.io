@@ -53,7 +53,7 @@ ul#nav {
 
 #content {
 	background: url(images/content-bg.jpg) repeat-y;
-	padding: 57px 69px 50px 69px; overflow: hidden;
+	padding: 57px 69px 50px 69px; overflow: hidden; color:#000000; font-size:14px;
 }
 	#content h2 {
 		font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
@@ -116,8 +116,8 @@ ul#nav {
 
 		<ul id="nav">
 			<li><a href="index.html">Home</a></li>
-			<li><a href="about.html">Education and Experience</a></li>
-			<li><a href="projects.html">Projects and Publications</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="projects.html">Projects</a></li>
 			<li><a href="#">Other Interests</a></li>
 			<!-- <li><a href="contact.html">Contact</a></li> -->
 		</ul>
