@@ -70,7 +70,7 @@ ul#nav {
 
 #content {
 	background: url(images/content-bg.jpg) repeat-y;
-	padding: 57px 69px 50px 69px; overflow: hidden;color:#000000; font-size:14px;
+	padding: 57px 69px 50px 69px; overflow: hidden; font-size:14px; 
 }
 	#content h2 {
 		font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
