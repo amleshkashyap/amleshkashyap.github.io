@@ -146,7 +146,7 @@ ul#nav {
 			radiation computation scheme than CAM4 (explored in another project), called RRTMG. Working with CAM5 				involved porting of several new routines, including the complete shortwaves and a longwave routine (called 				Generate Stochastic Clouds) to the Xeon Phi and a set of new techniques to improve upon the performance. 				
 		<p>	After porting the new routines, we observed severe performance degradation. We identified the major reason 				for this degradation to be the large copy time.	We reduced it through several techniques, including 				converting local variables to static variables, leading to very good performance improvements of the 				individual routines. After this, we considered the computation of complete radiation routine and the possible 				cases of execution of the routine with all it's dependencies, execution times on heterogeneous resources, and 				combinations with asynchronous execution and proportional partitioning. We implemented two of the cases which 				were predicted to provide best performance among all the cases. We obtain significant improvement in the 				radiation routines after implementation. </p>
 
-		<p> 	To further improve upon our work, I am working on pipelined executions of radiation calculations since there
+		<p> 	To further improve upon our work, I am working on pipelined executions of radiation calculations, since there
 			are dependencies between the RRTMG functions. Pipeline scheduling has been explored for streaming programs 				which have several stages of pipeline. </P>
 
 		<p>	The manuscript for this work is in preparation. More details will be updated soon. </p>
