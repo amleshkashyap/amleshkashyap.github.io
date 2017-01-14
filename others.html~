@@ -129,10 +129,10 @@ ul#nav {
 				<!-- <a href="https://github.com/amleshkashyap">Github</a> -->
 
 			<p><B>Online Courses Completed</B> - <br>
-			a. <a href="coursera_automata.pdf">Automata (Coursera)</a><br>
+			<!--a. <a href="coursera_automata.pdf">Automata (Coursera)</a><br>
 			b. <a href="coursera_algo.pdf">Algorithms 1(Coursera)</a><br>
-			c. <a href="coursera_crypto.pdf">Cryptography (Coursera)</a><br>
-			d. <a href="coursera_ml.pdf">Machine Learning (Coursera)</a><br>
+			c. <a href="coursera_crypto.pdf">Cryptography (Coursera)</a><br> -->
+			a. <a href="coursera_ml.pdf">Machine Learning (Coursera)</a><br>
 			<!-- e. Parallel Computing (Udacity)<br>
 			f.  Fundamentals of Music Theory (Coursera) <br>
 			g. Quantum Mechanics and Quantum Computation (edX) </p>
@@ -145,9 +145,9 @@ ul#nav {
 			c. Learning How To Learn (Coursera)  </p> -->
 
 			<!--<p><B>Languages </B>I can/could speak (<a href="https://en.wikipedia.org/wiki/ILR_scale">Proficiency</a>) - 				Hindi (Native), Maithili (Native), English (Full Professional), Sanskrit (Limited Working), Kannada (Limited 				Working), Spanish (Elementary),	Portuguese (Elementary), 
-			(<a href="https://www.duolingo.com/amleshkashyap">Duolingo</a>)</p>
+			(<a href="https://www.duolingo.com/amleshkashyap">Duolingo</a>)</p> -->
 
-			<p><B>Music</B> - I could play <a href="images/bansuri.jpg">this</a> flute quite fluently. I don't play it 				anymore though.</p>
+			<p>My favorite <a href="images/bansuri.jpg">flute</a>.</p>
 
 			<!-- <p><B>GRE</B> - 328 (Quant 169, Verbal 159, AWA 3.5) <br>
 			<B>JEST (Theoretical Computer Science)</B> - AIR 114

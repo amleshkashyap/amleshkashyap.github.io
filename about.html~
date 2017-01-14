@@ -54,7 +54,7 @@ ul#nav {
 
 #content {
 	background: url(images/content-bg.jpg) repeat-y;
-	padding: 57px 69px 50px 69px; overflow: hidden;color:#000000; font-size:14px;
+	padding: 57px 69px 50px 69px; overflow: hidden; font-size:14px;
 }
 	#content h2 {
 		font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
@@ -91,7 +91,7 @@ ul#nav {
 
 #footer {
 	background: url(images/content-bg.jpg) no-repeat; padding: 40px 0 0 0;
-	overflow: hidden; margin: 0 0 30px 0;color:#000000;
+	overflow: hidden; margin: 0 0 30px 0;
 }
 	#footer p#copyright {
 		font-size: 12px; float: left; margin: 0 0 0 30px; color: #b8b6b2;
@@ -128,7 +128,7 @@ ul#nav {
 				a. Bachelor of Technology (2011-2015) - <a href="http://www.nitp.ac.in">National Institute of 					Technology, Patna</a><br>
 				b. Class X, XII (2009, 2011) - <a href="http://www.davschoolkhagaul.org/">D.A.V. Public School, 				Khagaul
 				</a><br>
-				c. Junior Diploma (2013-2015) - <a href="http://www.prayagsangeetsamiti.co.in/">Prayag Sangeet 					Samiti, Allahabad</a><br><br>
+				<!-- c. Junior Diploma (2013-2015) - <a href="http://www.prayagsangeetsamiti.co.in/">Prayag Sangeet 					Samiti, Allahabad</a><br><br> -->
 		
 
 			<h3>Experience</h3> 
