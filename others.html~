@@ -90,7 +90,7 @@ ul#nav {
 
 #footer {
 	background: url(images/content-bg.jpg) no-repeat; padding: 40px 0 0 0;
-	overflow: hidden; margin: 0 0 30px 0; color:#000000;
+	overflow: hidden; margin: 0 0 30px 0; 
 }
 	#footer p#copyright {
 		font-size: 12px; float: left; margin: 0 0 0 30px; color: #b8b6b2;
@@ -133,7 +133,7 @@ ul#nav {
 			b. <a href="coursera_algo.pdf">Algorithms 1(Coursera)</a><br>
 			c. <a href="coursera_crypto.pdf">Cryptography (Coursera)</a><br>
 			d. <a href="coursera_ml.pdf">Machine Learning (Coursera)</a><br>
-			e. Parallel Computing (Udacity)<br>
+			<!-- e. Parallel Computing (Udacity)<br>
 			f.  Fundamentals of Music Theory (Coursera) <br>
 			g. Quantum Mechanics and Quantum Computation (edX) </p>
 
@@ -144,7 +144,7 @@ ul#nav {
 			b. Art of Poetry (edX) <br>
 			c. Learning How To Learn (Coursera)  </p> -->
 
-			<p><B>Languages </B>I can/could speak (<a href="https://en.wikipedia.org/wiki/ILR_scale">Proficiency</a>) - 				Hindi (Native), Maithili (Native), English (Full Professional), Sanskrit (Limited Working), Kannada (Limited 				Working), Spanish (Elementary),	Portuguese (Elementary), 
+			<!--<p><B>Languages </B>I can/could speak (<a href="https://en.wikipedia.org/wiki/ILR_scale">Proficiency</a>) - 				Hindi (Native), Maithili (Native), English (Full Professional), Sanskrit (Limited Working), Kannada (Limited 				Working), Spanish (Elementary),	Portuguese (Elementary), 
 			(<a href="https://www.duolingo.com/amleshkashyap">Duolingo</a>)</p>
 
 			<p><B>Music</B> - I could play <a href="images/bansuri.jpg">this</a> flute quite fluently. I don't play it 				anymore though.</p>
