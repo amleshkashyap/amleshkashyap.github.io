@@ -126,6 +126,7 @@ ul#nav {
 </head>
 
 <body>
+<!--
 	<div id="container">
 
 		<ul id="nav">
@@ -133,7 +134,7 @@ ul#nav {
 			<li><a href="about.html">About</a></li>
 			<li><a href="projects.html">Projects</a></li>
 			<li><a href="others.html">Other Interests</a></li>
-			<!-- <li><a href="contact.html">Contact</a></li> -->
+			<!-- <li><a href="contact.html">Contact</a></li> 
 		</ul>
 
 
@@ -144,7 +145,7 @@ ul#nav {
 			<h4>Bio</h4>
 	
 			<p> I am a Research Assitant at Middleware and Runtime Systems 
-			(<a href="http://mars.serc.iisc.ernet.in/">MARS</a>) Laboratory. My advisor is 
+			(<a href="http://mars.cds.iisc.ac.in/">MARS</a>) Laboratory. My advisor is 
 			<a href="http://www.serc.iisc.ernet.in/~vss/">Prof. Sathish S. Vadhiyar</a>.
 			Broadly, I have experience in Parallel Computation. At MARS lab, my work is focused on hybrid algorithms 				and software. This lab is a part of the Department of Computational and Data Sciences 				(<a href="http://cds.iisc.ac.in/">CDS</a>), at Indian Institute of Science 
 			(<a href="http://www.iisc.ac.in/">IISc</a>), Bangalore. One of the projects I am working on is also 				supervised by 
@@ -154,7 +155,7 @@ ul#nav {
 			<a href="http://www.nitp.ac.in/php/faculty_profile.php?id=akshayd@nitp.ac.in">Prof. Akshay Deepak</a>. 
 			Have a look at my <a href="projects.html">projects</a>. You can	find my full CV <a href="resume.pdf">here</a> 				and short CV <a href="single_page.pdf">here</a>.</p>
 			
-			<!-- <p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	 -->
+			<!-- <p><a href="resume.pdf"><h4>Curriculum Vitae</h4></a></p>	
 			
 	
 			<h4>News</h4>
@@ -168,23 +169,24 @@ ul#nav {
 		<br><br>
 			<h4>Contact</h4>
 
-				Email - <I>kashyapamlesh at gmail dot com</I> - Best way to reach me.<br>
-				<!-- Mobile - <I>(+91) 7677853656 </I>  <br> -->
+				Email - <I>kashyapamlesh at gmail dot com</I><br>
+				<!-- Mobile - <I>(+91) 7677853656 </I>  <br> 
 				Address - 327, MARS Lab, Department of CDS, IISc, Malleshwaram, Bangalore - 560012 <br>
-				<a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a><br>
-				<!-- <a href="https://software.intel.com/en-us/user/1177366">Intel Developer Zone</a><br> -->
+				<!-- <a href="https://www.linkedin.com/in/amleshkashyap">Linkedin</a><br>
+				<!-- <a href="https://software.intel.com/en-us/user/1177366">Intel Developer Zone</a><br> 
 		</div>
 	
 		
 
 		<div id="footer">
 			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> 
-			<p id="back-top"><a href="#">Top?</a></p> -->
+			<p id="back-top"><a href="#">Top?</a></p> 
 			<p id="bot-left">Last Updated : 18-01-2017</p>
-			<p>It is much more difficult to learn to enjoy doing things that were discovered recently in our evolution, like manipulating symbolic systems by doing math or science or writing poetry or music.</p>
-			<p>-- Mihaly Czikszentmihalyi</p>
+<!--			<p>It is much more difficult to learn to enjoy doing things that were discovered recently in our evolution, like manipulating symbolic systems by doing math or science or writing poetry or music.</p>
+			<p>-- Mihaly Czikszentmihalyi</p>   
 
 		</div>
 	
 	</div>
+-->
 </body>

@@ -112,6 +112,7 @@ ul#nav {
 </head>
 
 <body>
+<!--
 	<div id="container">
 
 		<ul id="nav">
@@ -119,72 +120,19 @@ ul#nav {
 			<li><a href="about.html">About</a></li>
 			<li><a href="projects.html">Projects</a></li>
 			<li><a href="#">Other Interests</a></li>
-			<!-- <li><a href="contact.html">Contact</a></li> -->
+			<!-- <li><a href="contact.html">Contact</a></li> 
 		</ul>
 
 		<div id="content">
 
 
 				 
-				<!-- <a href="https://github.com/amleshkashyap">Github</a> -->
 
 			<p><B>Online Courses Completed</B> - <br>
-			<!--a. <a href="coursera_automata.pdf">Automata (Coursera)</a><br>
-			b. <a href="coursera_algo.pdf">Algorithms 1(Coursera)</a><br>
-			c. <a href="coursera_crypto.pdf">Cryptography (Coursera)</a><br> -->
 			a. <a href="coursera_ml.pdf">Machine Learning (Coursera)</a><br>
-			<!-- e. Parallel Computing (Udacity)<br>
-			f.  Fundamentals of Music Theory (Coursera) <br>
-			g. Quantum Mechanics and Quantum Computation (edX) </p>
 
-			<p>I spend some part of my free time in swimming. Sometimes, I also practice 
-			<a href="http://data.typeracer.com/pit/profile?user=kashyapamlesh">typing</a>.</p>
-			<!-- <p>Watched All Lectures - <br>
-			a. Global Diplomacy (Coursera) <br>
-			b. Art of Poetry (edX) <br>
-			c. Learning How To Learn (Coursera)  </p> -->
-
-			<!--<p><B>Languages </B>I can/could speak (<a href="https://en.wikipedia.org/wiki/ILR_scale">Proficiency</a>) - 				Hindi (Native), Maithili (Native), English (Full Professional), Sanskrit (Limited Working), Kannada (Limited 				Working), Spanish (Elementary),	Portuguese (Elementary), 
-			(<a href="https://www.duolingo.com/amleshkashyap">Duolingo</a>)</p> -->
-
-			<p>My favorite <a href="images/bansuri.jpg">flute</a>.</p>
-
-			<!-- <p>Interesting Read - <a href="creativesOncreatives.pdf">Problem Solvers on (famous) Problem Solvers</a>. Notice the common themes.</p>
-
-			<!-- <p><B>GRE</B> - 328 (Quant 169, Verbal 159, AWA 3.5) <br>
-			<B>JEST (Theoretical Computer Science)</B> - AIR 114
-			</p> -->
-			
 		</div>
 
-<!--
-			<p>
-			<h3>Pure and Applied Mathematics</h3>
-			This consumes most of my time.
-			</p>
-
-			<p>
-			<h3>Science and Social Sciences</h3>
-			I mainly focus on materials related to physics, economics, political science, anthropology, neuroscience, mysticism and astrophysics. Understanding of these subjects can help answer important questions from the macro world.
-			</p>
-
-			<p>
-			<h3>Music and Other Arts</h3>
-			I have learnt Hindustani classical music for 2 years on the flute. I also have an understanding of Western classical and computational music. Apart from these, I try to learn about poetry and painting to develop an appreciation of these creative fields.
-			</p>
-	
-			<p>
-			<h3>Sports</h3>
-			I swim regularly and can do the four "popular" strokes. At some point of time, I learnt some basketball.
-			</p>
-			-->
-		
-		<div id="footer">
-			<!-- <p id="copyright">&copy; Amlesh Kashyap </p> -->
-			<p id="back-top">My Favourites - <a href="http://www.coursera.org">Coursera</a><a href="http://www.edx.org"> edX</a><a href="http://www.udacity.com"> Udacity</a></p>
-			<p>Every social group is built on identifications. The basis of spiritual process is to learn to live without an identity.</p>
-			<p>-- Jaggi Vasudev</p>
-		</div>
-	
 	</div>
+-->
 </body>
